@@ -4,7 +4,7 @@
 ![](https://user-images.githubusercontent.com/72025145/197925091-d062422b-9904-43e9-8645-eb2a245c2def.gif)
 
 
-🔭 _I am currently a full stack web developer looking for new opportunities;_
+🔭 _I am currently a full-stack developer with experience in web, mobile, backend systems and looking for new opportunities;_
 
 👨🏿‍💻 _I do my best to become a great full stack web dev;_
 
@@ -12,7 +12,7 @@
 
 💬 _Ask me questions about anything related to programming, nature, nature sports and computer science;_
 
-📧 _You wish to contact me: _***yemalin.agbangla@epitech.eu***_;_
+📧 _You wish to contact me: _***agbangla.modeste.pro@gmail.com***_;_
 
 ⚡ _Fun fact: I am still looking for⏳;_
 
@@ -36,6 +36,9 @@
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+
 
 
 
@@ -62,10 +65,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ***Hosting***
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ***Open-source Workflow management***
 
