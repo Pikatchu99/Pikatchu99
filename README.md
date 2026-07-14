@@ -13,6 +13,11 @@
 
 ## 💼 Selected Projects
 
+**HBDWall – Creator & Maintainer (Open Source)**  
+- Shareable birthday-wall app: guests leave a message + photo with no account, the creator exports a keepsake collage, and each guest is invited to create their own (guest→creator viral loop).  
+- Next.js 16, React 19, Prisma 7 / PostgreSQL, Cloudflare R2, dual auth (Google + pseudo/PIN), i18n, web push.  
+- 🔗 [hbdwall.xyz](https://hbdwall.xyz) · 💻 [source](https://github.com/Pikatchu99/hbdwall-app)
+
 **StationMap.bj – Technical Lead & Mobile Developer (Remote)**  
 - Led 3 developers on 3 interconnected apps (mobile client, station interface, admin dashboard).  
 - Architected and delivered fullstack solutions (React Native Expo, Next.js).  
@@ -30,6 +35,12 @@
 **AXETAG – Backend Developer (Remote)**  
 - Designed REST APIs and automated IoT data pipelines (Python/Flask).  
 - Centralized authentication using OIDC to unify access and security.
+
+---
+
+## 🌟 Open Source
+
+**[hbdwall-app](https://github.com/Pikatchu99/hbdwall-app)** — the source code behind [hbdwall.xyz](https://hbdwall.xyz), a shareable birthday-wall app. Built with Next.js 16, Prisma and a custom design system, released under the **AGPL-3.0** license. Contributions welcome!
 
 ---
 
