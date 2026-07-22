@@ -7,7 +7,7 @@
 💬 Ask me about fullstack development, SaaS product architecture, scaling apps, or technical leadership.
 
 📧 Contact: **agbangla.modeste.pro@gmail.com**  
-🌍 Location: Côte d'Ivoire
+🌍 Location: Côte d'Ivoire x Bénin
 
 ---
 
@@ -28,11 +28,6 @@
 - Architected and delivered fullstack solutions (React Native Expo, Next.js).  
 - Ensured maintainable, scalable code and deployment pipelines.
 
-**My SaaS Project – Fullstack Developer**  
-- Built a web editor handling complex state and dynamic content.  
-- Designed microservices to manage user data, authentication, and integrations.  
-- Focused on performance, code quality, and iterative development.
-
 **Urbenhits – Full Stack Developer (Remote)**  
 - Developed a music streaming platform with integrated payments (Vue.js, Node.js, MongoDB).  
 - Implemented production-ready features with attention to performance and reliability.
@@ -48,6 +43,8 @@
 **[snaplover](https://github.com/Pikatchu99/snaplover)** — the source code behind [snaplover.hbdwall.xyz](https://snaplover.hbdwall.xyz), an online photobooth for two people at a distance. Built with Next.js, React 19 and WebRTC, self-hosted end to end, released under the **AGPL-3.0** license. Contributions welcome!
 
 **[hbdwall-app](https://github.com/Pikatchu99/hbdwall-app)** — the source code behind [hbdwall.xyz](https://hbdwall.xyz), a shareable birthday-wall app. Built with Next.js 16, Prisma and a custom design system, released under the **AGPL-3.0** license. Contributions welcome!
+
+**[filebridge](https://github.com/Pikatchu99/filebridge)** — turns a CSV/Excel file into a searchable, filterable REST API in minutes: upload a file, it detects the schema, and exposes the rows through a paginated, permissioned API (per-dataset API keys, public sharing, CSV export, post-import webhooks). Useful anywhere flat-file data needs to be consumed elsewhere — a dashboard, a script, a Make/Zapier/n8n automation — without hand-rolling a backend for it. Django REST API + Next.js dashboard, split across three repos ([backend](https://github.com/Pikatchu99/filebridge-api), [frontend](https://github.com/Pikatchu99/filebridge-frontend), and [this one](https://github.com/Pikatchu99/filebridge) to run both together), released under the **MIT** license. Contributions welcome!
 
 ---
 
